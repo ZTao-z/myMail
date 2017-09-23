@@ -1,0 +1,2 @@
+name,password,smtp,s_check,s_port,pop,p_check,p_port,mailcheck,mailcheck_time,auto_check,auto reply
+1124693098@qq.com,zsfjcucyqmrmbadb,smtp.qq.com,2,587,pop.qq.com,2,995,2,1,0,“— ’µΩ
